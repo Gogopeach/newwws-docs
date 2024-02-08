@@ -105,11 +105,9 @@ heading_anchors: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: Frontend - (GitHub)
-    url: https://github.com/just-the-docs/just-the-docs
-  - title: WP THeme - (GitHub)
-    url: https://github.com/just-the-docs/just-the-docs
+# nav_external_links:
+# - title: Frontend - (GitHub)
+# url: https://github.com/just-the-docs/just-the-docs
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -123,7 +121,7 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: dark
+color_scheme: light
 
 callouts_level: quiet # or loud
 callouts:
