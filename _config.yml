@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alekuriren
+title: Newwws Docs
 description: Dokumentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://googpeach.github.io/newwws-docs" # the base hostname & protocol for your site, e.g. http://example.com
+repository: gogopeach/newwws-docs # for github-metadata
 theme: just-the-docs
 
 permalink: pretty
